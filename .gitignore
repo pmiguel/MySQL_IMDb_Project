@@ -21,3 +21,5 @@ Thumbs.db
 # Data files
 *.tsv
 *.tsv.gz
+
+.env
